@@ -3,9 +3,11 @@
 Tugas implementasi GAN untuk mata kuliah Machine Learning.
 
 ## Anggota Kelompok
-- Anggota 1: [Nama] - Kontribusi: Konsep dan dataset
-- Anggota 2: [Nama] - Kontribusi: Coding Generator/Discriminator
-- dst.
+- Naila Fatikhah Parwanto
+- Devianest
+- Zainab
+- Adya Rusmalillah
+- Nurul Khoiriyah
 
 ## Cara Menjalankan
 1. Clone repo ini.
